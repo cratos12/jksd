@@ -1,0 +1,17 @@
+import React from 'react';
+
+function FloresAmarillasParaNovia() {
+  return (
+    <div>
+      <h1>Flores Amarillas para Mi Novia</h1>
+      <p>¡Feliz día, mi amor!</p>
+      <img
+        src="https://https://github.com/kevin-riveros/flores-amarillas.git"
+        alt="Flores Amarillas"
+      />
+      <p> Te amo mucho</p>
+    </div>
+  );
+}
+
+export default FloresAmarillasParaNovia;
